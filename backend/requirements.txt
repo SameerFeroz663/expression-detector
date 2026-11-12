@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+opencv-python-headless<5  # OpenCV 5 removed the Haar CascadeClassifier
+pillow
+numpy
